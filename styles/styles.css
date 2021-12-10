@@ -1,0 +1,46 @@
+/* these are the classes I used for my website*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+    background-color: rgb(169, 204, 226);
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+    color: rgb(4, 8, 247);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+a:visited {
+    color: black;
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+}
+.underline {
+    text-decoration: underline;
+}
+.homebg {
+    background-image: url('images/Webdevbackground.png');
+    background-position: bottom right;
+    background-repeat: repeat;
+}
+.justify {
+    text-align: justify;
+}
+.bold {
+    font-weight: bold;
+}
+.box1 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
